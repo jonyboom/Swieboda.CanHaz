@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swieboda.CanHaz", "Swieboda.CanHaz\Swieboda.CanHaz.csproj", "{2417EBEA-F587-46E1-9867-6C581E6ED758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swieboda.CanHaz.Specs", "Swieboda.CanHaz.Specs\Swieboda.CanHaz.Specs.csproj", "{CCAA1A7C-8F2C-431F-BE77-6A820537B002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2417EBEA-F587-46E1-9867-6C581E6ED758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2417EBEA-F587-46E1-9867-6C581E6ED758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2417EBEA-F587-46E1-9867-6C581E6ED758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2417EBEA-F587-46E1-9867-6C581E6ED758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCAA1A7C-8F2C-431F-BE77-6A820537B002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCAA1A7C-8F2C-431F-BE77-6A820537B002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCAA1A7C-8F2C-431F-BE77-6A820537B002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCAA1A7C-8F2C-431F-BE77-6A820537B002}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
